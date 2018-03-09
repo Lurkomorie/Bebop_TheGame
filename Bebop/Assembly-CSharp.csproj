@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Assets\Scripts\CharacterMovement.cs" />
-     <Compile Include="Assets\Assets\Scripts\ColorPicker.cs" />
      <Compile Include="Assets\Assets\Scripts\Entity.cs" />
      <Compile Include="Assets\Assets\Scripts\FollowCamera.cs" />
      <Compile Include="Assets\Assets\Scripts\NavigationPrompt.cs" />
